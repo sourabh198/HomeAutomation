@@ -6,7 +6,7 @@
 
 ## Files:
 
-1. homeAutomation
+1. homeAutomation  
 	-homeAutomation.ino  
 	-thingProperties.h  
 	-arduino_secrets.h
